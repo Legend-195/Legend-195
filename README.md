@@ -8,7 +8,7 @@
 - 🔬 Completed the **Machine Learning Specialization by Andrew Ng**
 - 🛠️ Built an ML-powered **real-time trade simulator** that predicts slippage (R² = 0.97), market impact, and fees
 - 📦 Experienced in **quantile regression**, **logistic regression**, and applying ML to financial data
-- Currently learning **deep learning**, **LLMs (Large Language Models)**, and how to build **end-to-end ML-powered web apps**
+- 🌱 Currently learning **deep learning**, **LLMs (Large Language Models)**, and how to build **end-to-end ML-powered web apps**
 - 🧠 I enjoy solving real-world problems with data, building scalable pipelines, and experimenting with predictive models
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/abhiraj-kumar-540b37294/) or email me at [ee23bt010@iitdh.ac.in](mailto:ee23bt010@iitdh.ac.in)
 - ⚡ Fun fact: I designed a puzzle game  that ranked **12th** at Inter IIT Tech Meet 13.0
