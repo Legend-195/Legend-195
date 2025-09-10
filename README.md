@@ -32,7 +32,7 @@
 
 ### 📈 GitHub Stats
 
-![Abhiraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Legend-195&show_icons=true&theme=radical)
+![Abhiraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Legend-195&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legend-195&layout=compact&theme=radical)
 
 ---
